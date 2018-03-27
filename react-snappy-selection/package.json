@@ -1,0 +1,7 @@
+{
+  "name": "react-snappy-selection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "esnext:main": "index.js",
+  "license": "MIT"
+}
