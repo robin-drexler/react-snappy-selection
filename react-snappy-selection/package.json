@@ -1,7 +1,16 @@
 {
   "name": "react-snappy-selection",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "esnext:main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "microbundle": "^0.4.4"
+  },
+  "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0"
+  },
+  "scripts": {
+    "build": "microbundle build --jsx React.createElement --compress=false"
+  }
 }
