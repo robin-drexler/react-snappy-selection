@@ -3,7 +3,7 @@
 Make text selection snap when selected by clicking multiple times.
 Inspired by github's snappy branch name selection.
 
-![](./snappy-selection.gif)
+![](https://github.com/robin-drexler/react-snappy-selection/raw/master/react-snappy-selection/snappy-selection.gif)
 
 ## Installation
 
