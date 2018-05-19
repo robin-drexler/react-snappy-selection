@@ -57,3 +57,8 @@ const App = () => (
 
 `SnappySelection` expects a single children.
 If you pass a custom component, you must make sure to pass prop `onClick` to the underlying dom-element.
+
+
+## Examples
+
+[https://codesandbox.io/s/823qkkj580](https://codesandbox.io/s/823qkkj580)
