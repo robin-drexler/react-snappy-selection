@@ -12,5 +12,9 @@
   },
   "scripts": {
     "build": "microbundle build --jsx React.createElement --compress=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robin-drexler/react-snappy-selection"
   }
 }
