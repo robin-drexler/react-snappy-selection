@@ -8,7 +8,7 @@ const MyCustomComponent = (props) => (
 
 const App = () => (
   <div>
-    <span>This is not snappy</span>
+    <span data-testid="first">This is not snappy</span>
     <SnappySelection>This is snappy</SnappySelection>
     <span>This is not snappy</span>
     <SnappySelection>

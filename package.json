@@ -4,5 +4,11 @@
   "main": "index.js",
   "private": true,
   "workspaces": ["react-snappy-selection", "demo"],
-  "license": "MIT"
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^1.4.0"
+  }
 }

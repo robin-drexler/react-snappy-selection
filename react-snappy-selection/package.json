@@ -4,7 +4,8 @@
   "main": "dist/index.js",
   "esnext:main": "index.js",
   "license": "MIT",
-  "description": "Make text selection snap when selected by clicking multiple times. Inspired by github's snappy branch name selection.",
+  "description":
+    "Make text selection snap when selected by clicking multiple times. Inspired by github's snappy branch name selection.",
   "devDependencies": {
     "microbundle": "^0.4.4"
   },
